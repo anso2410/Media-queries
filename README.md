@@ -1,5 +1,5 @@
 # Media-queries
-###Exercices d'entrainement aux media queries.
+### Exercices d'entrainement aux media queries.
 [Media queries](https://developer.mozilla.org/fr/docs/Web/CSS/Requ%C3%AAtes_m%C3%A9dia/Utiliser_les_Media_queries)
 
 Dans le cadre de la formation 
